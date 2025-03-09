@@ -1,5 +1,5 @@
 # GitHubGrass
-クラシックAPIを使用してGitHub APIから草データを取得.  
+クラシックAPI（トークン）を使用してGitHub APIから草データを取得.  
 使用方法  
 ```php
 <?php  
